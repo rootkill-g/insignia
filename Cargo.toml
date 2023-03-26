@@ -7,5 +7,5 @@ edition = "2021"
 
 [dependencies]
 ed25519-dalek = "1.0.1"
-rand = "0.8.5"
-sha3 = "0.10.6"
+openssl = "0.10.48"
+rand = "0.7"
